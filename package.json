@@ -1,0 +1,13 @@
+{
+  "name": "requestidlecallback",
+  "version": "0.1.0",
+  "description": "Shims rIC in case a browser doesn't support it.",
+  "main": "requestIdleCallback.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/55efe5d6f05434a96c36.git"
+  },
+  "author": "Paul Lewis",
+  "license": "Apache-2.0",
+  "homepage": "https://gist.github.com/paullewis/55efe5d6f05434a96c36"
+}
